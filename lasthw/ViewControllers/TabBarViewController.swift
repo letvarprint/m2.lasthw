@@ -1,10 +1,3 @@
-//
-//  TabBarViewController.swift
-//  lasthw
-//
-//  Created by Alexandru Brixencov on 26.10.2023.
-//
-
 import UIKit
 
 final class TabBarViewController: UITabBarController {

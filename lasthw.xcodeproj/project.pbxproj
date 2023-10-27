@@ -106,10 +106,10 @@
 		FA2A21D82AEB512C005F01D1 /* SuportFiles */ = {
 			isa = PBXGroup;
 			children = (
+				FA2A21C32AE8920A005F01D1 /* Info.plist */,
 				FA2A21B72AE89207005F01D1 /* SceneDelegate.swift */,
 				FA2A21B52AE89207005F01D1 /* AppDelegate.swift */,
 				FA2A21BE2AE8920A005F01D1 /* Assets.xcassets */,
-				FA2A21C32AE8920A005F01D1 /* Info.plist */,
 			);
 			path = SuportFiles;
 			sourceTree = "<group>";
@@ -346,7 +346,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7L3P8CKW5V;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = lasthw/Info.plist;
+				INFOPLIST_FILE = lasthw/SuportFiles/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -377,7 +377,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7L3P8CKW5V;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = lasthw/Info.plist;
+				INFOPLIST_FILE = lasthw/SuportFiles/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
