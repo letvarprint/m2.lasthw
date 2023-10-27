@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  lasthw
-//
-//  Created by Alexandru Brixencov on 25.10.2023.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
