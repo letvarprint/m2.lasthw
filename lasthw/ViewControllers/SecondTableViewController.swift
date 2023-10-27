@@ -9,6 +9,7 @@ final class SecondTableViewController: UITableViewController {
         
         self.navigationItem.title = "Persons list"
         tableView.sectionHeaderTopPadding = 0.0
+        tabBarController?.title = "Persons list"
     }
 }
     

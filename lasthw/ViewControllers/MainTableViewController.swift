@@ -6,6 +6,7 @@ final class MainTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        tabBarController?.title = "Persons list"
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
